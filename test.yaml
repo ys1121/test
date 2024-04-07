@@ -17,7 +17,7 @@ dns:
 proxies:
     - type: vless
       name: mf.1252732174-a5d.workers.dev
-      server: 104.18.150.29
+      server: 162.159.153.2
       port: 2052
       uuid: d574a956-30c0-4d54-8711-8e3d2ca7fe12
       network: ws
