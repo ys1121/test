@@ -17,7 +17,7 @@ dns:
 proxies:
     - type: vless
       name: worker-yang.1252732174-cc.workers.dev
-      server: 162.159.153.2
+      server: 103.160.204.162
       port: 2052
       uuid: 8ce857e3-c5d0-4d1a-8da3-02e0a2908038
       network: ws
